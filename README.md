@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a systems engineer, full stack developer and I'm currently doing projects with React and Laravel.
+I'm a systems engineer with a strong background in programming and database management. I am a responsible, proactive person with a great capacity to adapt to new challenges. I learn quickly and enjoy teamwork, collaborating effectively to achieve common goals.
 
 
 ## 🌐 Socials:
